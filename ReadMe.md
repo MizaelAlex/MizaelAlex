@@ -1,8 +1,23 @@
 # 💫 About Me:
 🎮 Olá, Meu nome é Mizael, sou estudante de Tecnologia em Jogos Digitais e iniciante na programação.<br>🌱 Atualmente estou praticando Pixel Art e aprendendo lógica de programação em C. Estou buscando aprender mais sobre a área de programação e evoluir minhas habilidades na criação de jogos.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+# 💻 My Skills:
+**Main Stack:**
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**Studying in this moment:**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Workstation Tools:**
+
+![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+**Contacts:**
+
+![https://www.instagram.com/mizael_alex/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/mizael-alex-9036b7254/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MizaelAlex&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MizaelAlex&theme=radical&hide_border=false)<br/>
