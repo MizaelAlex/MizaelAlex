@@ -14,6 +14,12 @@
 
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+**Contacts:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mizael-alex-9036b7254/)
+
+[![DIO](https://img.shields.io/badge/DIO-1BB175)](https://www.dio.me/users/mizael_alex027)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MizaelAlex&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
