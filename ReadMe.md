@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎮 Olá, Meu nome é Mizael, sou estudante de Tecnologia em Jogos Digitais e iniciante na programação.<br>🌱 Atualmente estou praticando Pixel Art e aprendendo lógica de programação em C. Estou buscando aprender mais sobre a área de programação e evoluir minhas habilidades na criação de jogos.
+🎮 Olá, meu nome é Mizael. Sou estudante de Tecnologia em Jogos Digitais com um forte interesse em desenvolvimento de software, especialmente em C, C# e .NET. Durante meus estudos, desenvolvi pequenos projetos de jogos e alguns projetos com C#, aprimorando minhas habilidades técnicas e criativas.
+
+Meu objetivo profissional é me tornar um programador experiente e um game developer. Estou concluindo minha faculdade e, ao longo desse trajeto, as experiências que tive me agregaram muito. Estou focando tanto na área de programação quanto em game development. Apaixonado por jogos, busco constantemente aprimorar minhas habilidades e participar de projetos inovadores na área de desenvolvimento de software e jogos digitais.
 
 # 💻 My Skills:
 **Main Stack:**
